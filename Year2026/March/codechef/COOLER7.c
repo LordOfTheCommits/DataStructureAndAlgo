@@ -11,6 +11,5 @@ int main() {
 sum = ((N * (N + 1))  - (M * (M + 1))) / 2;
 printf("%d\n",sum);
     }
-
     return 0;
 }
